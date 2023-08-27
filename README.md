@@ -7,3 +7,6 @@ The programs contained in this repository are verified using a few examples. How
 is no mistake in my programs. Thus, you should verfy it again before use it.
 
 The compliers used in verification are gcc version 8.1.0 on Windows built by MinGW-W64 project. 
+
+Mat6Inv.c Mat6Inv.for: Inversion of 6X6 Matrix 2023/8/27
+numpy array creation in python: 2023/8/27
